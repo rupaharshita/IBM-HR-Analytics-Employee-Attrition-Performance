@@ -15,8 +15,12 @@ Data Source -
 Kaggle
 
 
-Problem - High employee attrition affects productivity, increases recruitment costs, and impacts workplace morale. The organization needs to identify the factors driving turnover and target at-risk groups to improve retention.
+Problem - 
+
+High employee attrition affects productivity, increases recruitment costs, and impacts workplace morale. The organization needs to identify the factors driving turnover and target at-risk groups to improve retention.
+
 Goal -
+
 To provide an interactive and visual analysis of attrition patterns for the team to explore trends.
 
 ![Dashboard Preview](https://github.com/rupaharshita/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition%20%26%20Performance.png)
