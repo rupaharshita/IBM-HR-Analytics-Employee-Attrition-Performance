@@ -19,7 +19,7 @@ Problem - High employee attrition affects productivity, increases recruitment co
 Goal -
 To provide an interactive and visual analysis of attrition patterns for the team to explore trends.
 
-https://github.com/rupaharshita/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition%20%26%20Performance.png
+![Dashboard Preview]https://github.com/rupaharshita/IBM-HR-Analytics-Employee-Attrition-Performance/blob/main/IBM%20HR%20Analytics%20Employee%20Attrition%20%26%20Performance.png
 
 Insights - 
 
